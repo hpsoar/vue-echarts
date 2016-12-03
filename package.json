@@ -1,6 +1,7 @@
 {
-  "name": "vue-echarts",
-  "version": "1.0.0",
+  "name": "vue-echarts2",
+  "version": "1.0.1",
+  "private": true,
   "description": "ECharts component for Vue.js.",
   "main": "dist/vue-echarts.js",
   "scripts": {
